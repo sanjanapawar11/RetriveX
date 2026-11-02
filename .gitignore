@@ -1,0 +1,20 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local documents
+data/
+
+# Generated vector database
+vectorstore/
+
+
+# OS files
+.DS_Store
+Thumbs.db
